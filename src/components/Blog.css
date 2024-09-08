@@ -1,0 +1,48 @@
+/* src/components/Blog.css */
+
+.blog-container {
+    background-color: #121212;
+    color: white;
+    padding: 100px 20px;
+    text-align: center;
+  }
+  
+  .blog-title {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    color: #00ffcc;
+  }
+  
+  .blog-list {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .blog-post {
+    background-color: #1a1a1a;
+    border-radius: 10px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+  }
+  
+  .blog-post:hover {
+    transform: scale(1.05);
+  }
+  
+  .post-title {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .post-date {
+    color: #777;
+    margin-bottom: 0.5rem;
+  }
+  
+  .post-excerpt {
+    font-size: 1rem;
+    color: #ccc;
+  }
+  

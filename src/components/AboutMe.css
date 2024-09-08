@@ -1,0 +1,24 @@
+/* src/components/AboutMe.css */
+
+.about-container {
+    background-color: #1a1a1a;
+    color: white;
+    padding: 100px 20px;
+    text-align: center;
+  }
+  
+  .about-title {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    color: #00ffcc;
+  }
+  
+  .about-description {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    max-width: 800px;
+    margin: 0 auto;
+    padding-bottom: 1.5rem;
+    color: #cccccc;
+  }
+  
